@@ -1,2 +1,2 @@
-dif huvaah(a,b):
+def huvaah(a,b):
   return a/b
